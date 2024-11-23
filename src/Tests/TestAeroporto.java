@@ -9,6 +9,7 @@ package Tests;
 import Interfacce.CodeChecker;
 import Velivoli.*;
 import Spazi.*;
+import CheckSuiCodici.*;
 
 public class TestAeroporto {
 

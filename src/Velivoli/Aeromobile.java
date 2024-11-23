@@ -25,5 +25,7 @@ public abstract class Aeromobile {
     @Override
     public String toString(){
         return "Aeromobile n° " + getNumeroSequenziale() +"-"+ "Codice: " + getCodice();
+
     }
+
 }
