@@ -14,11 +14,11 @@ public abstract class Aeromobile {
         this.codice = codice;
     }
 
-    public static String getCodice() {
+    public String getCodice() {
         return codice;
     }
 
-    public static Integer getNumeroSequenziale() {
+    public Integer getNumeroSequenziale() {
         return numeroSequenziale;
     }
 
