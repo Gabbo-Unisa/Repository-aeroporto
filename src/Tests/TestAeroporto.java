@@ -3,8 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aeroproject;
+package Tests;
 
+
+import Velivoli.*;
+import Spazi.*;
 
 public class TestAeroporto {
 
